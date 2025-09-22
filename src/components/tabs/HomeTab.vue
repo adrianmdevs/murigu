@@ -1,6 +1,6 @@
 <script setup>
 //import CarouselMain from '../hom../home/CarouselMain.vue';
-import underlineComp from '../underlineComp.vue';
+import UnderlineComp from '../UnderlineComp.vue';
 //import SkillMarqueeSlide from '../SkillMarqueeSlide.vue';
 //import SkillMarqueeSlideTwo from '../home/SkillMarqueeSlideTwo.vue';
 import WhitePapers from '../WhitePapers.vue';
@@ -13,11 +13,11 @@ import SoftwareDev from '../home/SoftwareDev.vue';
     <div class="relative flex flex-col min-h-full px-3 space-y-10 mb-72 bg-gray-50 dark:bg-secondary-dark md:w-full ">
         <!--Military Defence-->
         <ImageComponent/>
-        <underlineComp/>
+        <UnderlineComp/>
         <MilDef/>
-        <underlineComp/>
+        <UnderlineComp/>
         <SoftwareDev/>
-        <underlineComp/>
+        <UnderlineComp/>
         <WhitePapers/>
     </div>
 </template>
