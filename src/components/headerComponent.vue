@@ -17,7 +17,7 @@ onUnmounted(()=>{
 })
 </script>
 <template>
-    <header class="w-full py-4 border-b-2 border-green-400 z-99 max-sm:px-3 dark:bg-black">
+    <header class="w-full py-4 border-gray-500 shadow-xl drop-shadow z-99 max-sm:px-3 dark:bg-black">
         <div class="flex flex-row justify-between w-full lg:container lg:mx-auto">
             <img src="../assets/images/murigu.png" class="w-1/3 h-auto lg:w-1/4" alt="">
              <button @click="toggleDark" class="text-xl">

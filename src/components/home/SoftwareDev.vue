@@ -5,7 +5,7 @@
 </script>
 <template>
     <div class="flex flex-col space-y-4">
-        <span class="text-light tracking-[16px] text-xl text-center uppercase dark:text-white">Software Development</span>
+        <span class="text-light tracking-[16px] text-fluid-sm text-center uppercase dark:text-white">Software Development</span>
             <div class="grid grid-cols-1 gap-y-14">
                 <!--Multi-Domain Operations-->
                 <div class="flex flex-col">
@@ -37,7 +37,7 @@
                             </div>
                         </div>
                         <!--Frameworks-->
-                        <div class="flex flex-col p-2 text-white bg-green-900 space-y-7 rounded-xl">
+                        <div class="flex flex-col p-2 text-white bg-[#0c0355] space-y-7 rounded-xl">
                             <span class="text-xl font-medium text-opacity-50 dark:text-white">Frameworks</span>
                             <div class="grid grid-flow-row grid-cols-2 place-items-center justify-items-center dark:text-gray-400">
                                    

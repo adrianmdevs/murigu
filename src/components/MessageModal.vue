@@ -12,7 +12,7 @@ import { defineProps } from 'vue';
     <div v-if="isOpen"
     class="fixed inset-0 z-50 flex items-center justify-center bg-black bg-opacity-90"
     >
-        <div class="relative flex flex-col p-4 space-y-8 text-white border rounded-lg bg-white dark:bg-secondary-dark w-96 h-72 dark:border-gray-300">
+        <div class="relative flex flex-col h-auto p-4 space-y-8 text-white bg-white border rounded-lg dark:bg-secondary-dark w-72 md:w-96 dark:border-gray-300">
             <!--Close button-->
             <button @click="$emit('close')"
             class="absolute text-3xl text-black dark:text-white top-3 right-3 hover:text-red-500">
