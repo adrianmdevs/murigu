@@ -31,7 +31,7 @@
             <div class="flex flex-col space-y-3 lg:flex-row lg:space-x-10">
                 <img src="/src/assets/images/MuriguAIDarkCard.png" class="rounded-lg lg:w-1/2" alt="">
                 <div class="flex flex-col space-y-3 lg:order-first lg:w-1/2">
-                    <span class="font-semibold text-fluid-base dark:text-gray-200">Artificial Intelligence</span>
+                    <span class="font-semibold text-fluid-base dark:text-gray-200">Artificial Intelligence Developer</span>
                     <p class="font-medium text-gray-700 text-fluid-sm dark:text-gray-300">
                         Most of my work traverses AI and its applications. I am interested in crafting smart
                         solutions
